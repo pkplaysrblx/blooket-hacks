@@ -177,7 +177,7 @@
             userSelect: "text"
         },
         innerHTML: "cdnSploit - pk,
-        onclick: () => window.open("https://github.com/pkplaysrblx/blooket-hacks", "_blank").focus()
+        onclick: () => window.open("https://github.com/pkplaysrblx/blooket-hacks").focus()
     }), $ = l("div", {
         id: "controlButtons",
         style: {
